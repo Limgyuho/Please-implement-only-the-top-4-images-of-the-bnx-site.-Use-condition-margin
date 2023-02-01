@@ -1,0 +1,6 @@
+div, section{
+   text-align: center; 
+}
+div > img{
+    margin: 9.8px;
+}
